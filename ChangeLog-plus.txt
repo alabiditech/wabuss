@@ -1,15 +1,15 @@
-{"version_code":2,"content":"
-<p>تحديث إصلاحي 20.1.1</p>
+{"version_code":3,"content":"
+<p>تحديث 20.2</p>
 
-<li>إضافة خيار لتحويل الصوت أثناء التحدث إلى نص</li>
-<li>إضافة خيار لإرسال رسائل فارغة</li>
-<li>إصلاح الإنهيار عند الضغط على أيقونة تنزيل الحالات</li>
+<li>التحديث للإصدار 2.20.196.16</li>
+<li>إضافة خيارات الخصوصية الكاملة</li>
+<li>إضافة تنزيل الحالة بالسهم أو الثلاث النقط</li>
 <li>إصلاحات وتحسينات</li>
 
 
-<li> Added option to Make Speak to Text</li>
-<li> Added option to send Empty Messages</li>
-<li> Fixed Crash at click download statuses icon</li>
+<li> Updated to v2.20.196.16</li>
+<li> Added All Privacy Options</li>
+<li> Added Download Statuses</li>
 <li> Other Fixed</li>
 
 ","url":"http://bit.ly/whatsapp-business-plus"
