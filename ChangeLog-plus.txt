@@ -1,4 +1,4 @@
-{"version_code":3,"content":"
+{"version_code":2,"content":"
 <p>تحديث 20.2</p>
 
 <li>التحديث للإصدار 2.20.196.16</li>
