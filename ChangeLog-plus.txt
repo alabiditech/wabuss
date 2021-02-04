@@ -1,46 +1,12 @@
-{"version_code":5,"content":"
-<p>تحديث جديد 20.5</p>
+{"version_code":7,"content":"
+<p>تحديث جديد 20.5.5</p>
 
-<li> التحديث للإصدار 2.20.206.24 </li>
-<li> إمكانية نسخ وصف فيديوهات وصور الحالة </li>
-<li> إمكانية معاينة الخطوط قبل الإختيار </li>
-<li> إضافة خيار لإظهار حالة الأشخاص كمتصل الآن / آخر ظهور أو نقطة حضراء / نقطة رمادي بجانب الاسماء أو الكل معا في الشاشة الرئيسية </li>
-<li> إضافة خيار لعرض الوقت المنقضي بشكل مفصل بدلاً من التاريخ والوقت في الشاشة الرئيسية </li>
-<li> إضافة خيار لوضع اسمك في الشاشة الرئيسية بدلاً من WhatsApp </li>
-<li> إضافة خيار لتعطيل فتح المحادثات المخفية عند الضغط على كلمة WhatsApp في الشاشة الرئيسية </li>
-<li> إضافة خيار لإظهار أنك متصل دائماً حتى لو خرجت من الواتساب </li>
-<li> إضافة خيار لإخفاء الإشعارات لجهات الإتصال أو المجموعات أو الكل </li>
-<li> إضافة خيار لتشغيل فيديوهات الحالة مع الصوت تلقائياً </li>
-<li> إضافة خيار لتعطيل ظهور المحادثات المؤرشفة عند وصول رسالة جديدة </li>
-<li> إضافة خيار لعرض حالة الشخص أسفل الشريط العلوي في شاشة المحادثة </li>
-<li> إضافة خيار لإعادة جميع الخيارات للوضع الإفتراضي (الإضافات والخصاص - الثلاث النقط) </li>
-<li> الآن عند إقفال محادثة سيتم ظهور كلمة تم إخفاء المحتوى بدلاً من ظهور الرسالة في الشاشة الرئيسية </li>
-<li> الآن عند إقفال محادثة لن تظهر الرسالة في شريط الإشعارات عند وصول رسالة ما </li>
-<li> الآن عند إخفاء محادثة سيتم ظهور كلمة تم إخفاء المحتوى بدلاً من ظهور الرسالة في شاشة المحادثات المخفية </li>
-<li> الآن يمكن تطبيق الوضع الداكن والوضع الفاتح عند الضغط المطول على كلمة WhatsApp في الشاشة الرئيسية </li>
-<li> إضافة خيار لإخفاء أيقونة تشفير الرسائل من الشريط العلوي </li>
-<li> إصلاحات على أداء البرنامج </li>
+<li> إمكانية تغيير لون نص وخلفية الحالة </li>
+<li> المزيد اكتشفه بنفسك </li>
 
 
-<li> Update Base to 2.20.206.24 </li>
-<li> Added Option to Show Online/Last seen or Green Dot Like FB Messenger on the Home Screen </li>
-<li> Added Option to Use Elapsed time (last seen hr and mins ago) in WhatsApp, in Home and Conversation screen </li>
-<li> Added Option to Set your name instead of WhatsApp in Home Screen </li>
-<li> Added Option to Disable Opening hidden chats when clicking WhatsApp </li>
-<li> Added Option to Show Always Online </li>
-<li> Added Option to Hide Notification for Contacts , Groups or Both </li>
-<li> Added Option to Always play status videos with sound </li>
-<li> Added Option to control whether chats get unarchived when new messages arrive </li>
-<li> Added Option to Show Contact status line under the header in coversation </li>
-<li> Added Click on Status caption to copy </li>
-<li> Now when you locked a conversation "Contents is hidden" will appear instead of the message appearing in the Home screen </li>
-<li> Now when you locked a conversation the Messages it's disappeared in Notification </li>
-<li> Now when you Hide Chats a conversation the Messages it's disappeared </li>
-<li> Now You can Apply Light or Night themes at pressing WhatsApp ward in Home Screen </li>
-<li> Added Option to Hide Encryption Messages icon </li>
-<li> Fixed Disable Heads-up Popup </li>
-<li> Improvement App </li>
-<li> Other Fixed </li>
+<li> you can change background and text of story </li>
+<li> more </li>
 
 ","url":"https://www.ga-mods.com/2019/03/whatsapp-business-plus.html"
 }
