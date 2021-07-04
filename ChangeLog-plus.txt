@@ -1,12 +1,12 @@
-{"version_code":6,"content":"
-<p>تحديث جديد 20.5.5</p>
+{"version_code":7,"content":"
+<p>تحديث جديد 20.7</p>
 
-<li> إمكانية تغيير لون نص وخلفية الحالة </li>
-<li> المزيد اكتشفه بنفسك </li>
+<li> تحديث قاعدة الإصدار إلى v2.21.7.14 </li>
+<li> مميزات وخيارات جديدة للوسائط اكتشفها بنفسك </li>
 
 
-<li> you can change background and text of story </li>
-<li> more </li>
+<li> Update to Base v2.21.7.14 </li>
+<li> More Options to Media and Screen </li>
 
 ","url":"https://www.ga-mods.com/2019/03/whatsapp-business-plus.html"
 }
