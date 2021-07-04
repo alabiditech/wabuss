@@ -1,4 +1,4 @@
-{"version_code":7,"content":"
+{"version_code":5,"content":"
 <p>تحديث جديد 20.7</p>
 
 <li> تحديث قاعدة الإصدار إلى v2.21.7.14 </li>
