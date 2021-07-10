@@ -1,4 +1,4 @@
-{"version_code":5,"content":"
+{"version_code":7,"content":"
 <p>تحديث جديد 20.7</p>
 
 <li> تحديث قاعدة الإصدار إلى v2.21.7.14 </li>
@@ -8,5 +8,5 @@
 <li> Update to Base v2.21.7.14 </li>
 <li> More Options to Media and Screen </li>
 
-","url":"https://www.ga-mods.com/2019/03/whatsapp-business-plus.html"
+","url":"https://www.2022tech.com/2021/07/wa-business-plus.html"
 }
