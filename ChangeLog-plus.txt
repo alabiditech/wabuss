@@ -1,73 +1,16 @@
-{"version_code":8,"content":"
-<p>تحديث جديد 20.8</p>
+{"version_code":7,"content":"
+
+<p>تحديث جديد New Update</p>
 
 <li> التحديث للإصدار 2.21.11.17 </li>
-<li> أصبح بإمكانك الاستماع إلى الرسائل الصوتية بسرعات مختلفة من خلال التبديل بين أزرار 1× أو 1.5× أو 2× أثناء تشغيل الرسالة </li>
-<li> إمكانية تقطيع الفيديوهات ومشاركتها للحالة ( الشاشة الرئيسية - شاشة الحالة - أيقونة القص ) </li>
-<li> إضافة خيار لإخفاء أيقونة تقطيع الفيديوهات من شاشة الحالة </li>
-<li> إضافة خيار لإظهار إشعار عندما يقوم أحد بمشاهدة حالتك </li>
-<li> إضافة إمكانية الضغط على رابط الوصف في الحالة </li>
-<li> إضافة خيار لتفعيل تثبيت أكثر من 3 محادثات في الشاشة الرئيسية </li>
-<li> إضافة خيار لإخفاء شاشة الدردشات , الحالة والمكالمات من الشاشة الرئيسية </li>
-<li> إضافة خيار تعدد الدردشات لفتح أكثر من محادثة في الخلفية </li>
-<li> إضافة خيار لإرسال أكثر من 30 صورة دفعة واحدة من المعرض </li>
-<li> إضافة خيار لإرسال أكثر من 30 مستند دفعة واحدة </li>
-<li> إضافة خيار لإخفاء الفيديوهات من المعرض </li>
-<li> إضافة خيار لإخفاء الصور من المعرض </li>
-<li> إضافة خيار لإخفاء الصور المتحركة من المعرض </li>
-<li> إضافة خيار لإعادة تعيين خيارات إخفاء الوسائط إلى الوضع الإفتراضي </li>
-<li> إضافة خيار لتفعيل الوضع الليلي لإعدادات الإضافات والخصائص </li>
-<li> إضافة إمكانية حفظ البروفايلات ( صورة العرض ) للمجموعات وجهات الإتصال </li>
-<li> إضافة خيار لإعادة تعيين خيارات إخفاء الوسائط إلى الوضع الإفتراضي </li>
-<li> إمكانية فتح خيار دردشة لرقم غير محفوظ عبر الضغط المطول على أيقونة الدردشة في الشاشة الرئيسية </li>
-<li> إمكانية دخول خيارات الخصوصية والقفل من إعدادات واتساب </li>
-<li> إمكانية معرفة من عمل لك إشارة منشن بالمجموعات وظهور أيقونة المنشن بالشاشة الرئيسية </li>
-<li> إمكانية دخول خيارات الإضافات والخصائص من إعدادات واتساب </li>
-<li> إضافة خيار لإعادة خيارات الإضافات والخصائص إلى الوضع الإفتراضي </li>
-<li> إضافة خيار "مساعدة" في حال واجهتك أي مشكلة يمكنك الدخول لحلها بدون إنترنت أو تواصل مع المطور </li>
-<li> تحسينات على القفل برقم الآن ستظهر الأرقام بشكل يلائم اللغة العربية مع القليل من تحسينات الأرقام </li>
-<li> تحسينات على زر الإستعادة في واجهة تفعيل الرقم </li>
-<li> إصلاح خيار إظهار الصحين الزرقاء فقط بعد الرد </li>
-<li> إصلاح خيار إيقاف تشغيل التسجيلات الصوتية بشكل متتالي </li>
-<li> إصلاح خيار إخفاء أيقونة الإتصال الصوتي من المحادثة </li>
-<li> إصلاح خيار إخفاء أيقونة الإتصال المرئي من المحادثة </li>
-<li> إصلاح عدم نسخ الحالات الكتابية عن طريق أيقونة التنزيل </li>
-<li> إصلاح عدم تنزيل الوسائط في أجهزة أندرويد نظام ١١ </li>
-<li> المزيد من الإصلاحات </li>
 
+<li> خيارات جديدة ومذهلة </li>
 
-<li> Update to Base v2.21.11.17 </li>
-<li> More Options to Media and Screen </li>
-<li> Added Split Videos in Status Screen </li>
-<li> Added Option to Hide Split icon from Status Screen </li>
-<li> You can now listen to voice messages at different speeds by toggling the 1x/1.5x/2x buttons while a message is playing </li>
-<li> Now You can Click on Links in Caption of Status </li>
-<li> Added Option to Show Toast when someone view your status </li>
-<li> Added Multi Chats Every chat you open will become a card, can switch from Recents easily </li>
-<li> Added Option to send up to 100 documents at once instead of 30 </li>
-<li> Added Option to to Write Status (News) up to 256 Charactres instead of 139 Charactres </li>
-<li> Added Option to Send more than 30 Pics from Gallery </li>
-<li> Added Option to Hide images from Gallery </li>
-<li> Added Option to Hide gifs from Gallery </li>
-<li> Added Option to Hide videos from Gallery </li>
-<li> Added Option to Reset Hide Media Options to Default </li>
-<li> Added Privacy Mod in WhatsApp Settings </li>
-<li> Added Modification Options in WhatsApp Settings </li>
-<li> Added Option to Change to Dark Theme for Settings </li>
-<li> Added Option to Reset Option to Default </li>
-<li> Added "Help" in Modification to if you have any Problem you can solve it </li>
-<li> possibility to Opening Messages to UnSave Number at Press to Long on Chat Icon in Main Screen </li>
-<li> ReAdded Save Profiles </li>
-<li> Improvment Backup and Restore </li>
-<li> ReAdded Mention Tag in Home Screen </li>
-<li> Improvment Pin Lock </li>
-<li> Fixed Hide Voice Call Icon Option </li>
-<li> Fixed Hide Video Call Icon Option </li>
-<li> Fixed Copy Text Status </li>
-<li> Fixed Show Blue Ticks after reply Option </li>
-<li> Fixed Play Voice Note Automatically Option </li>
-<li> Fixed android 11 Problems </li>
-<li> Other Fixed </li>
+<li> Updated to Base 2.21.11.17 </li>
+
+<li> I am Lazy to Write Change logs </li>
 
 ","url":"https://www.2022tech.com/2021/07/wa-business-plus.html"
+
 }
+
