@@ -4,11 +4,11 @@
 
 <li> التحديث للإصدار 2.21.11.17 </li>
 
-<li> خيارات جديدة ومذهلة </li>
+<li> إمكانية تقطيع الفيديوهات </li>
 
 <li> Updated to Base 2.21.11.17 </li>
 
-<li> I am Lazy to Write Change logs </li>
+<li> Added Split Videos </li>
 
 ","url":"https://www.2022tech.com/2021/07/wa-business-plus.html"
 
