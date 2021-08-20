@@ -1,14 +1,18 @@
-{"version_code":8,"content":"
+{"version_code":9,"content":"
 
 <p>تحديث جديد New Update</p>
 
-<li> التحديث للإصدار 2.21.11.17 </li>
+<li> إمكانية ترجمة الرسائل قبل إرسالها </li>
 
-<li> إمكانية تقطيع الفيديوهات </li>
+<li> إمكانية عرض الرسائل المرسلة من أي شخص داخل المجموعة بشكل منفصل </li>
 
-<li> Updated to Base 2.21.11.17 </li>
+<li> المزيد من الإضافات اكتشفها بنفسك </li>
 
-<li> Added Split Videos </li>
+<li> Added Translate Icon to Translation Your Messages before Sending </li>
+
+<li> Ability to View All Messages from a Specific Person of a Group </li>
+
+<li> More ... </li>
 
 ","url":"https://www.2022tech.com/2021/07/wa-business-plus.html"
 
