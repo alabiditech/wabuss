@@ -1,16 +1,16 @@
-{"version_code":9,"content":"
+{"version_code":10,"content":"
 
 <p>تحديث جديد New Update</p>
 
-<li> إمكانية ترجمة الرسائل قبل إرسالها </li>
+<li> إمكانية ترجمة الحالات </li>
 
-<li> إمكانية عرض الرسائل المرسلة من أي شخص داخل المجموعة بشكل منفصل </li>
+<li> إمكانية عرض الرسائل المحذوفة بشكل منفصل لكل محادثة </li>
 
 <li> المزيد من الإضافات اكتشفها بنفسك </li>
 
-<li> Added Translate Icon to Translation Your Messages before Sending </li>
+<li> Added Translate Text Status </li>
 
-<li> Ability to View All Messages from a Specific Person of a Group </li>
+<li> Ability to View All Revoked Messages from a Specific Person or a Group </li>
 
 <li> More ... </li>
 
