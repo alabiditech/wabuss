@@ -1,16 +1,16 @@
-{"version_code":10,"content":"
+{"version_code":11,"content":"
 
 <p>تحديث جديد New Update</p>
 
-<li> إمكانية ترجمة الحالات </li>
+<li> إمكانية مشاهدة الوسائط المعلمة مشاهدة مرة واحدة فقط بدون إختفائها </li>
 
-<li> إمكانية عرض الرسائل المحذوفة بشكل منفصل لكل محادثة </li>
+<li> إمكانية كتابة شرح مرفق مع الوسائط بحروف عدد ٤٠٠٠ حرف بدلا من ١٠٢٤ حرف </li>
 
 <li> المزيد من الإضافات اكتشفها بنفسك </li>
 
-<li> Added Translate Text Status </li>
+<li> Added Anti -View Once </li>
 
-<li> Ability to View All Revoked Messages from a Specific Person or a Group </li>
+<li> Ability to Write a Caption to 4000 Charactres at once instead of 1024 Characters </li>
 
 <li> More ... </li>
 
